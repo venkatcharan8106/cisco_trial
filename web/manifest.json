@@ -1,0 +1,35 @@
+{
+    "name": "Ember Ledger",
+    "short_name": "Ember Ledger",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0A0A0A",
+    "theme_color": "#FF5A4F",
+    "description": "An offline-first personal expense tracker.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "ember_ledger_logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "ember_ledger_logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "ember_ledger_logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "maskable"
+        },
+        {
+            "src": "ember_ledger_logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "maskable"
+        }
+    ]
+}
